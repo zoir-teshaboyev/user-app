@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  
+  #loader{
+    display: grid;
+    place-items: center;
+    height: 90vh;
+    font-size: 40px;
+  }
+
+
+
+  #loader-user {
+    display: grid;
+    place-items: center;
+    height: 0vh;
+    font-size: 40px;
+  }
+  
+  .user-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .user-card:hover {
+    background-color: #f9f9f9;
+  }
+  
+  .actions button {
+    margin-right: 10px;
+  }
+
+/* ============================ */
+/* .skeleton-avatar {
+    width: 60px;
+    height: 60px;
+    background-color: #ccc;
+    border-radius: 50%;
+    animation: pulse 1.5s infinite;
+  } */
+  
+  .skeleton-line {
+    
+    height: 25px;
+    background-color: #ccc;
+    margin: 15px 0;
+    animation: pulse 1.5s infinite;
+  }
+  
+  .skeleton-line.short { width: 15%; }
+ 
+  
+  @keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.4; }
+    100% { opacity: 1; }
+  }
+  
+
+/* ================= */
+
+.user-detail{
+    
+    font-size: 100px;
+}
+
+  
+  
+  

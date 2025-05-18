@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "job": "fodbool plair",
+      "name": "Cristiano Ronaldo",
+      "salary": "$60000"
+    },
+    {
+      "id": 2,
+      "job": "fodbool plair",
+      "name": "Lenel Messi",
+      "salary": "$41200"
+    },
+    {
+        "id": 3,
+        "job": "Frontend Developer",
+        "name": "Zoir Teshaboyev",
+        "salary": "$0"
+      },
+      {
+        "id": 4,
+        "img":"photo_2025-05-07_18-52-28.jpg",
+        "job": "Frontend Ticher",
+        "name": "Arslonbek Alimbaev",
+        "salary": "$4200"
+      },
+      {
+        "id": 4,
+        "job": "Frontend Developer",
+        "name": "Abdulbositov Abubakr",
+        "salary": "$100"
+      }
+  ]
+  
